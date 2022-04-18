@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding:0;
+}
+#wrapper {
+	margin:50px auto;
+	padding:5px;
+	border:#999 solid 3px;
+	width:450px;
+	border-radius:10px;
+	box-shadow:#CCC 7px 7px 7px;
+}
+
+#wrapper_2 {
+	margin:50px auto;
+	padding:5px;
+	border:#999 solid 3px;
+	width:760px;
+	border-radius:10px;
+	box-shadow:#CCC 7px 7px 7px;
+}
+
+td{
+	border-top:#CCC solid 1px;
+	padding:2px;
+	height:35px;
+}
+th{
+	background-color:#999;
+	text-align:left;
+}
+
+caption{
+	font-family:"Courier New", Courier, monospace;
+	font-size:18px;
+	font-weight:bold;
+}
+
+a {
+background-image: linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -o-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -ms-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -moz-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -webkit-linear-gradient(to bottom,#2a95c5,#21759b);
+background-color: #2e9fd2;
+width: 86px;
+min-width:86px;
+height: 30px;
+vertical-align: middle;
+padding:5px;
+color: #fff;
+text-decoration: none;
+border: 1px solid transparent;
+border-radius: 5px;
+}
+
+.button {
+background-image: linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -o-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -ms-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -moz-linear-gradient(to bottom,#2a95c5,#21759b);
+background-image: -webkit-linear-gradient(to bottom,#2a95c5,#21759b);
+background-color: #2e9fd2;
+width: 86px;
+height: 30px;
+vertical-align: middle;
+color: #fff;
+text-decoration: none;
+border: 1px solid transparent;
+border-radius: 5px;
+cursor:pointer;
+}
+
+caption{
+	border-bottom:#CCC solid 1px;
+	padding:2px;
+	height:35px;	
+}
